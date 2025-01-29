@@ -1,0 +1,63 @@
+body {
+    background-color: #ffabf8;
+}
+
+.title {
+    background-color: #d470cb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    box-shadow: 10px 10px 20px;
+}
+
+.paragraph{
+    background-color: #d470cb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 20px;
+}
+
+#paragraph {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.question{
+    background-color: #d470cb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 20px;
+    margin-bottom: 30px;
+}
+
+#button{
+    background-color:#ffabf8;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    border-width: 3px;
+    
+}
+
+#button:hover{
+    background-color: aqua;
+}
+
+.banner-photo{
+    align-items: center;
+}
+
+#sybils_date {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
